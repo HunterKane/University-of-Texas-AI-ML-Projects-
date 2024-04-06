@@ -11,36 +11,40 @@
 - Computer Vision & NLP
 
 
-## Overview of Projects in Course
+## Overview of Graded Projects in Course
 
-Project 1:
+**Project 1:**
 
-- Foodhub Order Analysis 
+- **Foodhub Order Analysis**
 
+Practice projects 
 
-Project 2:
+- Practice 1: Google Play Store Case Study 
+- Practice 2: Uber Case Study 
 
-- Personal Loan Campaign Purchase Prediction 
+**Project 2:**
 
-
-Project 3: 
-
-- Credit card users Churn Prediction 
-
-
-Project 4: 
-
-- Bank Customer Churn Prediction 
+- **Personal Loan Campaign Purchase Prediction**
 
 
-Project 5 
+**Project 3:**
 
-- Plant Seedling Classification 
+- **Credit card users Churn Prediction** 
 
 
-Project 6:
+**Project 4:** 
 
-- e-Commerce Customer Review Sentiment Analysis
+- **Bank Customer Churn Prediction** 
+
+
+**Project 5:** 
+
+- **Plant Seedling Classification** 
+
+
+**Project 6:**
+
+- **e-Commerce Customer Review Sentiment Analysis**
 
 
 **Reference:**
