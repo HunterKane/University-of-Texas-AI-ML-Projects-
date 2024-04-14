@@ -1,5 +1,9 @@
 # University-of-Texas-AI-ML-Projects-
 
+Graded projects will appear in my e-learning profile after they have been graded. 
+
+https://eportfolio.mygreatlearning.com/hunter-sparrow 
+
 **Program Skills**
 
 - Widely used AI & ML tools and technologies
@@ -17,10 +21,16 @@
 
 - **Foodhub Order Analysis**
 
-Practice projects 
+Objective
+The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience.
+
+
+Practice projects (non-graded)
 
 - Practice 1: Google Play Store Case Study 
 - Practice 2: Uber Case Study 
+
+
 
 **Project 2:**
 
