@@ -17,7 +17,7 @@ https://eportfolio.mygreatlearning.com/hunter-sparrow
 
 ## Overview of Graded Projects in Course
 
-**Project 1:**
+**Project 1: Python Programming**
 
 - **Foodhub Order Analysis**
 
@@ -30,32 +30,42 @@ Practice projects (non-graded)
 - Practice 1: Google Play Store Case Study 
 - Practice 2: Uber Case Study 
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
-
-**Project 2:**
+**Project 2: Machine Learning Linear Regression**
 
 - **Personal Loan Campaign Purchase Prediction**
 
+Practice projects (non-graded)
+
+- Project 1: Predict housing prices Linear regressions 
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
 **Project 3:**
 
 - **Credit card users Churn Prediction** 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
 **Project 4:** 
 
 - **Bank Customer Churn Prediction** 
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
 **Project 5:** 
 
 - **Plant Seedling Classification** 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------
 **Project 6:**
 
 - **e-Commerce Customer Review Sentiment Analysis**
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
 **Reference:**
 
