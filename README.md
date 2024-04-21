@@ -17,9 +17,9 @@ https://eportfolio.mygreatlearning.com/hunter-sparrow
 
 ## Overview of Graded Projects in Course
 
-**Project 1: Python Programming**
+### **Project 1: Python Programming**
 
-- **Foodhub Order Analysis**
+#### **Foodhub Order Analysis**
 
 Objective
 - The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience.
@@ -32,13 +32,14 @@ Practice projects (non-graded)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-**Project 2: Machine Learning Linear Regression**
+## **Project 2: Machine Learning Linear Regression**
 
-- **Personal Loan Campaign Purchase Prediction**
+### **Personal Loan Campaign Purchase Prediction**
 
 Practice projects (non-graded)
 
-- Project 1: Predict housing prices Linear regressions 
+- Project 1: Predict housing prices Linear regressions
+- Project 2: Anime Rating Case Study 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
