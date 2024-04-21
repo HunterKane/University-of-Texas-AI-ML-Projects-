@@ -38,8 +38,8 @@ Practice projects (non-graded)
 
 Practice projects (non-graded)
 
-- Project 1: Predict housing prices Linear regressions
-- Project 2: Anime Rating Case Study 
+- Project 3: Predict housing prices Linear regressions
+- Project 4: Anime Rating Case Study 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
