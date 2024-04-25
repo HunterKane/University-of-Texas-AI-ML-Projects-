@@ -36,29 +36,33 @@ Practice projects (non-graded)
 
 ### **Personal Loan Campaign Purchase Prediction**
 
+Objective 
+- To predict whether a liability customer will buy personal loans, to understand which customer attributes are most significant in driving purchases, and to identify which segment of customers to target more.
+
+
 Practice projects (non-graded)
 
 - Project 3: Predict housing prices Linear regressions
-- Project 4: Anime Rating Case Study 
+- Project 4: Delinquent Analysis  
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
 **Project 3:**
 
-- **Credit card users Churn Prediction** 
-
+#### **Credit card users Churn Prediction** 
+Objective 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
 **Project 4:** 
 
-- **Bank Customer Churn Prediction** 
+#### **Bank Customer Churn Prediction** 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
 **Project 5:** 
 
-- **Plant Seedling Classification** 
+#### **Plant Seedling Classification** 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
