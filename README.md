@@ -43,8 +43,8 @@ Objective
 Practice projects (non-graded)
 
 - Project 3: Predict housing prices Linear regressions
-- Project 4: Cars4U 
-- Project 5: Delinquent Analysis
+- Project 4: Delinquent Analysis
+- Project 5: Cars4U
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
