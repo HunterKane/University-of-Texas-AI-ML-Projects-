@@ -31,7 +31,7 @@ Practice projects (non-graded)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-## **Project 2: Machine Learning Linear Regression**
+## **Project 2: Machine Learning Model Building**
 
 ### **Personal Loan Campaign Purchase Prediction**
 
@@ -41,8 +41,8 @@ Objective
 
 Practice projects (non-graded)
 
-- Project 3: Predict housing prices Linear regressions
-- Project 4: Delinquent Analysis
+- Project 3: Predict housing prices (Linear regressions)
+- Project 4: Delinquent Analysis (Decision Trees)
 - Project 5: Cars4U
 
 -------------------------------------------------------------------------------------------------------------------------------------
