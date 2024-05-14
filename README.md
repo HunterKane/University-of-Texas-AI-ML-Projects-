@@ -72,6 +72,13 @@ Objective
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
+**Extra Credit**
+
+- **Statistical Analysis Practice**
+   - obtain various descriptive statistical summaries of the households. The income-expenditure dataset contains the income-expenditure of the individuals having a family.
+
+
+
 **Reference:**
 
 The curriculum has been designed by the faculty at McCombs School of Business at the University of Texas at Austin.
