@@ -15,11 +15,11 @@ https://eportfolio.mygreatlearning.com/hunter-sparrow
 - Computer Vision & NLP
 
 
-## Overview of Graded Projects in Course
+# Overview of Graded Projects in Course
 
-### **Project 1: Python Programming**
+## **Project 1: Python Programming**(submitted 4.24)
 
-#### **Foodhub Order Analysis** (submitted 4.24)
+#### **Foodhub Order Analysis** 
 Objective
 - The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience.
 
@@ -27,8 +27,7 @@ Objective
 
 ## **Project 2: Machine Learning Model Building** (submitted 5.24)
 
-### **Personal Loan Campaign Purchase Prediction**
-
+#### **Personal Loan Campaign Purchase Prediction**
 Objective 
 - To predict whether a liability customer will buy personal loans, to understand which customer attributes are most significant in driving purchases, and to identify which segment of customers to target more.
 
