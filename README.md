@@ -68,7 +68,7 @@ Objective
 -------------------------------------------------------------------------------------------------------------------------------------
 **Project 6:**
 
-- **e-Commerce Customer Review Sentiment Analysis**
+- **E-Commerce Customer Review Sentiment Analysis**
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ Objective
 
 **Reference:**
 
-The curriculum has been designed by the faculty at McCombs School of Business at the University of Texas at Austin.
+The curriculum has been designed by the McCombs School of Business faculty at the University of Texas at Austin.
