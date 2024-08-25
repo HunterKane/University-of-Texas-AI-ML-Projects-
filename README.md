@@ -25,7 +25,7 @@ Objective
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-## **Project 2: Machine Learning Model Building**
+## **Project 2: Machine Learning Model Building** (submitted 5.24)
 
 ### **Personal Loan Campaign Purchase Prediction**
 
@@ -34,24 +34,29 @@ Objective
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-**Project 3:**
+## **Project 3: Advanced Machine learning Building** (submitted 6.24) 
 
 #### **Credit card users Churn Prediction** 
-Objective 
+
+Objective
+- Analyze the data and come up with a predictive model to determine if a customer will leave the credit card services or not and the reason behind it
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-**Project 4:** 
+## **Project 4: Advanced Machine Learning Building** (submitted 7.24)
 
 #### **Bank Customer Churn Prediction** 
 
+Objective 
+- To help the operations team identify the customers that are more likely to churn by building an artificial Neural Network from scratch.
 -------------------------------------------------------------------------------------------------------------------------------------
 
-**Project 5:** 
+## **Project 5: Computer Vision** (submitted 8.24)
 
 #### **Plant Seedling Classification** 
 
-
+Objective 
+- The Aarhus University Signal Processing group, in collaboration with the University of Southern Denmark, has provided the data containing images of unique plants belonging to 12 different species. You being a data scientist, need to build a Convolutional Neural Network model which would classify the plant seedlings into their respective 12 categories.
 -------------------------------------------------------------------------------------------------------------------------------------
 **Project 6:**
 
