@@ -23,12 +23,6 @@ https://eportfolio.mygreatlearning.com/hunter-sparrow
 Objective
 - The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience.
 
-
-Practice projects (non-graded)
-
-- Practice 1: Google Play Store Case Study 
-- Practice 2: Uber Case Study 
-
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Project 2: Machine Learning Model Building**
@@ -37,13 +31,6 @@ Practice projects (non-graded)
 
 Objective 
 - To predict whether a liability customer will buy personal loans, to understand which customer attributes are most significant in driving purchases, and to identify which segment of customers to target more.
-
-
-Practice projects (non-graded)
-
-- Project 3: Predict housing prices (Linear regressions)
-- Project 4: Delinquent Analysis (Decision Trees)
-- Project 5: Product Segmentation (K-means)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
