@@ -70,6 +70,10 @@ Objective
 
 - **Practice Projects**
 
+   - Practice 1 Google Play Store Case Study - EDA Analysis
+
+   - Practice 2 Case Study - Credit Card Analysis
+
   -------------------------------------------------------------------------------------------------------------------------------------
 
 **Reference:**
