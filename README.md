@@ -47,7 +47,7 @@ Objective
 #### **Bank Customer Churn Prediction** 
 
 Objective 
-- To help the operations team identify the customers that are more likely to churn by building an artificial Neural Network from scratch.
+- To help the operations team identify customers who are more likely to churn by building an artificial neural network from scratch.
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Project 5: Computer Vision** (submitted 8.24)
@@ -55,7 +55,7 @@ Objective
 #### **Plant Seedling Classification** 
 
 Objective 
-- The Aarhus University Signal Processing group, in collaboration with the University of Southern Denmark, has provided the data containing images of unique plants belonging to 12 different species. You being a data scientist, need to build a Convolutional Neural Network model which would classify the plant seedlings into their respective 12 categories.
+- The Aarhus University Signal Processing group, in collaboration with the University of Southern Denmark, has provided the data containing images of unique plants belonging to 12 different species. As a data scientist, you need to build a Convolutional Neural Network model to classify the plant seedlings into their respective 12 categories.
 -------------------------------------------------------------------------------------------------------------------------------------
 **Project 6:**
 
@@ -66,9 +66,11 @@ Objective
 **Extra Credit**
 
 - **Statistical Analysis Practice**
-   - obtain various descriptive statistical summaries of the households. The income-expenditure dataset contains the income-expenditure of the individuals having a family.
+   - Obtain various descriptive statistical summaries of the households. The income-expenditure dataset contains the income-expenditure of the individuals having a family.
 
+- **Practice Projects**
 
+  -------------------------------------------------------------------------------------------------------------------------------------
 
 **Reference:**
 
